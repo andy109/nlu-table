@@ -3,7 +3,7 @@
 import json
 from bs4 import BeautifulSoup
 
-OUT_DIR = '/storage'
+OUT_DIR = '/storage2'
 
 
 def read_json():
